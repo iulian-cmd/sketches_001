@@ -1,0 +1,15 @@
+
+  Id     Duration CommandLine
+  --     -------- -----------
+   1        0.127 try { . "c:\Users\kode\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\browser\media\shellIntegration.ps…
+   2       24.424 npx canvas-sketch sketch-01.js --new --open
+   3        1.020 npm install canvas-sketch@latest
+   4        0.055 ls
+   5        5.098 npm install canvas-sketch@latest
+   6        1.294 npx canvas-sketch sketch-01.js --output=media001/ --open
+   7        0.006 ls
+   8        0.007 cd .\sketches_001\
+   9        1.148 npm install canvas-sketch@latest
+  10       26.877 npx canvas-sketch sketch-01.js
+  11     1:23.219 npx canvas-sketch sketch-01.js --output=media001/ --open
+
